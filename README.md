@@ -1,1 +1,1 @@
-DMIT 2008-React-Todo-Lab-1
+DMIT 2008-React-Todo-Lab-2 (Authentication Providers)
